@@ -54,8 +54,6 @@ Retrieve the explained variance to determine how much information can be attribu
 
 Create a new DataFrame with the scaled PCA data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 
-    The first five rows of the scaled PCA DataFrame should appear as follows:
-
 ## Find the Best Value for k Using the PCA DataFrame
 Use the elbow method on the scaled PCA DataFrame to find the best value for k using the following steps:
 
