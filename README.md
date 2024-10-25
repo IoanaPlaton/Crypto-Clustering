@@ -89,3 +89,6 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
 
 Answer the following question:
     What is the impact of using fewer features to cluster the data using K-Means?
+
+# References
+Utilized weekly exercises and activities for reference in order to complete all coding and analysis.
