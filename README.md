@@ -67,9 +67,9 @@ Use the elbow method on the scaled PCA DataFrame to find the best value for k us
     
     Plot a line chart with all the inertia values computed with the different values of k to visually identify the optimal value for k.
     
-    Answer the following question in your notebook:
-        What is the best value for k when using the scaled PCA DataFrame?
-        Does it differ from the best k value found using the original scaled DataFrame?
+Answer the following question in your notebook:
+    What is the best value for k when using the scaled PCA DataFrame?
+    Does it differ from the best k value found using the original scaled DataFrame?
 
 ## Cluster Cryptocurrencies with K-means Using the PCA DataFrame
 Use the following steps to cluster the cryptocurrencies for the best value for k on the PCA DataFrame:
